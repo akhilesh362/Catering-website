@@ -1,0 +1,16 @@
+body{
+  font-family: "Times New Roman", Georgia, Serif;
+  padding:0;
+  margin:0;
+}
+a{
+  text-decoration: none;
+  color:black;
+  letter-spacing: 4px;
+  font-size:15px;
+  vertical-align: middle; 
+}
+h1,h2,h3,h4,h5,h6{
+  letter-spacing: 5px;
+  font-family: "Playfair Display";
+}
